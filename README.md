@@ -2,9 +2,9 @@
 
 * [Websajt Dokumentazzjoni Multilingwi](https://github.com/xxai-doc)
 
-Il-kodiċi front-end tal-websajt huwa sors miftuħ, merħba biex tgħin fl-ottimizzazzjoni tat-traduzzjoni
+Il-kodiċi tal-frontend tal-websajt huwa sors miftuħ, merħba biex tgħin tottimizza t-traduzzjoni
 
-* [kodiċi front-end](https://github.com/xxai-art/web)
+* [Kodiċi Frontend](https://github.com/xxai-art/web)
 * [Pakketti tal-lingwa għas-sit kollu kemm hu](https://github.com/xxai-art/web/tree/main/i18n)
 * [Pakketti tal-lingwa għall-moduli tal-login](https://github.com/wacpkg/user/tree/main/ui.i18n)
 * [Websajt Dokumentazzjoni Multilingwi](https://github.com/xxai-doc)
